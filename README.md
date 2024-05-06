@@ -50,8 +50,7 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming.
 
-# Developed by : SARAVANAN G
-# RegisterNumber : 212223230194
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/baskarsaraswathy/SR-FLIPFLOP-USING-CASE/assets/144871005/c02028f8-ee80-4794-bf78-b1d690cf3562)
